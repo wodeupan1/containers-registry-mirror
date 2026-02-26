@@ -1,0 +1,52 @@
+# Docker Hub
+docker.m.ixdev.cn
+docker.1ms.run
+docker.mirrorify.net
+docker-pull.ygxz.in
+
+# GitHub Container Registry
+ghcr.m.ixdev.cn
+ghcr.nju.edu.cn
+ghcr.mirrorify.net
+ghcr-pull.ygxz.in
+ghcr.milu.moe
+
+# GitLab Container Registry
+glcr.nju.edu.cn
+
+# Red Hat Quay Registry
+quay.m.ixdev.cn
+quay.nju.edu.cn
+quay.mirrorify.net
+quay-pull.ygxz.in
+
+# Google Container Registry
+gcr.nju.edu.cn
+gcr.mirrorify.net
+gcr-pull.ygxz.in
+
+# Kubernetes Container Registry (Google)
+gcr.nju.edu.cn/google-containers
+k8s-gcr.mirrorify.net
+k8s-gcr-pull.ygxz.in
+
+# Kubernetes Container Registry
+k8s.m.ixdev.cn
+k8s.nju.edu.cn
+k8s.mirrorify.net
+k8s-pull.ygxz.in
+
+# Microsoft Container Registry
+# mcr.mirrorify.net
+# mcr-pull.ygxz.in
+
+# Elastic Docker registry
+elastic.m.ixdev.cn
+elastic.mirrorify.net
+elastic-pull.ygxz.in
+
+# NVIDIA GPU Cloud Container Registry
+nvcr.m.ixdev.cn
+nvcr.nju.edu.cn
+nvcr.mirrorify.net
+nvcr-pull.ygxz.in
