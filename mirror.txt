@@ -10,6 +10,8 @@ ghcr.nju.edu.cn
 ghcr.mirrorify.net
 ghcr-pull.ygxz.in
 ghcr.milu.moe
+ghcr.chenby.cn
+ghcr.registry.cyou
 
 # GitLab Container Registry
 glcr.nju.edu.cn
