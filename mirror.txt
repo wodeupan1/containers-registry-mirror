@@ -1,4 +1,7 @@
 # Docker Hub
+hub.rat.dev
+docker.1panel.live
+hub.1panel.dev
 docker.m.ixdev.cn
 docker.1ms.run
 docker.mirrorify.net
